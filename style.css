@@ -1,4 +1,4 @@
-body{
+#footbol{
     background-image:url("https://e0.365dm.com/22/10/2048x1152/skysports-world-cup-qatar-2022_5921764.jpg");
     background-repeat:no-repeat;
     background-size:100% 100%;
@@ -11,16 +11,46 @@ body{
     {
     color:white;
     }
-    button
-    {
-    background-color:blue;
-    color:green;
-    }
     b1
     {
     color:black;
     }
-    #coment
+    .menu
     {
-    color:green;
+        list-style: none;
+        position: fixed;
+        background: purple;
+        width: 100%;
+        margin-top: 0px;
+        top:0px;
+        z-index:10;
+    }
+    .links
+    {
+        display: inline;
+        padding-left: 33px;
+        padding-right: 25px;
+        font-family: fantasy;
+        font-size: 20px; 
+    }
+    a
+    {
+        color:aquamarine;
+    }
+    .links:hover
+    {
+        font-size: 25px;
+    }
+    img
+    {
+    width: 300;
+    height: 200;
+    }
+    h1
+    {
+    color:red;
+    }
+    #sports
+    {
+    color: white;
     }
