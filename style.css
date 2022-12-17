@@ -11,6 +11,11 @@
     {
     color:white;
     }
+    button
+    {
+    background-color:blue;
+    color:green;
+    }
     b1
     {
     color:black;
@@ -49,4 +54,17 @@
     h1
     {
     color:red;
+    }
+    #sports
+    {
+    color: white;
+    }
+    .cuart
+    {
+    color:blue;
+    }
+    #final
+    {
+    width: 800px;
+    height: 800px;
     }
